@@ -1,0 +1,7 @@
+[x] get the data from api json
+[x] make a list all elements from api json
+[x] make the ui appear like displayed demo
+[] Make the font to pingfang tc !!!
+[] add math.random for each element if users are added/subtracted or not
+[] add math.random if the users are added/subtrated the amount
+[] add the special effects for element moving up and down 

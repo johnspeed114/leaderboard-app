@@ -1,6 +1,6 @@
 import { StreamerProps } from '../types/types';
 import { Container, ItemNum, Points, ProfilePic } from '../styles/styles';
-//create type declaration file for streamerListType
+//created type declaration file for streamerListType
 
 export const Streamer = ({
   number,
@@ -9,7 +9,7 @@ export const Streamer = ({
   score,
 }: StreamerProps) => {
   return (
-    <Container key={number}>
+    <Container>
       <ItemNum>{number + 1}</ItemNum>
       <div>
         <ProfilePic picture={picture} />

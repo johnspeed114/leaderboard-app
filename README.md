@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A leaderboard app
+-This is an app where we pseudo tracker the top streamers viewership by fetching the streamers' JSON data. The changes in the points for each streamer are based upon random number generator. 
 
 ## Available Scripts
 
